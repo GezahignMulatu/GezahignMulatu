@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @GezahignMulatu
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning cybersecurity 
-- 💞️ I’m looking to collaborate on ...
+- 👋 I’m University graduate in the field of physics and being teaching Physics for about 12 years (2008-2020)
+- 👀 I’m interested in the field of security, computer science and engineerings
+- 🌱 I’m currently learning entry-level cybersecurity
+- 💞️ I’m looking to collaborate on working with technology and analyzing and solving complex problems
 - 📫 How to reach me ...
 
 <!---
