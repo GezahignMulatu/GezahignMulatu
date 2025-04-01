@@ -3,7 +3,7 @@
 - 👀 I’m interested in the field of security, computer science and engineerings
 - 🌱 I’m currently learning entry-level cybersecurity
 - 💞️ I’m looking to collaborate on working with technology and analyzing and solving complex problems
-- 📫 How to reach me ...
+- 📫 Reach me by email gezahign24@gmail.com 
 
 <!---
 GezahignMulatu/GezahignMulatu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
